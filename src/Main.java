@@ -219,14 +219,14 @@ public class Main {
         }
 
         // Utworzenie i konfiguracja okna
-        JFrame frame = new JFrame("Rezerwacja biletów na koncert");
+        JFrame frame = new JFrame("Kupno biletów na koncert");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
         frame.setLayout(new FlowLayout());
 
         // Elementy GUI
         JComboBox<String> concertList = new JComboBox<>(concerts.keySet().toArray(new String[0]));
-        JButton reserveButton = new JButton("Rezerwuj bilet");
+        JButton reserveButton = new JButton("Kup bilet");
         JTextField ticketTypeField = new JTextField(10);
 
 
@@ -310,7 +310,7 @@ public class Main {
                     // Wyświetl raport rezerwacji
                     reservation.displayReservationReport();
 
-                    JOptionPane.showMessageDialog(frame, "Bilet zarerwowany.\nSuma: " + reservation.getTotalPrice());
+                    JOptionPane.showMessageDialog(frame, "Bilet zakupiony.\nSuma: " + reservation.getTotalPrice());
                 } else {
                     JOptionPane.showMessageDialog(frame, "Brak wolnych miejsc lub niepoprawna nazwa koncertu.");
                 }
