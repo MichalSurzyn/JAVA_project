@@ -1,0 +1,16 @@
+Rezerwacja dla: sdf
+  Bilet: AC/DC, Cena: 40.0
+  Łączna cena: 40.0
+----------------------------------------
+Rezerwacja dla: sdf
+  Bilet: AC/DC, Cena: 40.0
+  Łączna cena: 40.0
+----------------------------------------
+Rezerwacja dla: asd
+  Bilet: Perfect, Cena: 160.0
+  Łączna cena: 160.0
+----------------------------------------
+Rezerwacja dla: asd
+  Bilet: Perfect, Cena: 160.0
+  Łączna cena: 160.0
+----------------------------------------

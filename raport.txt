@@ -1,0 +1,20 @@
+Raport rezerwacji biletu:
+Email klienta: sdf
+Nazwa koncertu: AC/DC	
+Typ biletu: FFTicket
+
+Raport rezerwacji biletu:
+Email klienta: sdf
+Nazwa koncertu: AC/DC	
+Typ biletu: FFTicket
+
+Raport rezerwacji biletu:
+Email klienta: asd
+Nazwa koncertu: Perfect	
+Typ biletu: FFTicket
+
+Raport rezerwacji biletu:
+Email klienta: asd
+Nazwa koncertu: Perfect	
+Typ biletu: FFTicket
+

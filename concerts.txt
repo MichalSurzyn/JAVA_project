@@ -1,0 +1,7 @@
+Perfect 1000 200
+Metallica 0 100
+AC/DC 2 50
+AC/DC 1 50
+AC/DC 0 50
+Perfect 999 200
+Perfect 998 200
